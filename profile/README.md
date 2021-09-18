@@ -26,6 +26,7 @@ Automate your recurring tasks once, run it everywhere.
   <a href="mailto:mathieu@darkwood.fr"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/uniflow_io"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/company/uniflow-io"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
 
 <p  align="center">
